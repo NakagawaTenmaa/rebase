@@ -1,2 +1,3 @@
 init master
 update add_update
+render add_render
