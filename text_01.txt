@@ -3,3 +3,4 @@ update add_update
 render add_render
 
 enemy
+player
